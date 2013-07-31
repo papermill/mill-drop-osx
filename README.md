@@ -11,7 +11,12 @@ Note: You still need to install [`mill`](https://github.com/papermill/mill) and 
 
 ## Download
 
-[DOWNLOAD v0.1.0 for Mac OS X](http://papermill.github.io/mill-drop-osx/builds/mill-drop.app-v0.1.0.zip)
+1. [DOWNLOAD v0.1.0 for Mac OS X](http://papermill.github.io/mill-drop-osx/builds/mill-drop.app-v0.1.0.zip)
+
+2. ![right-click on app, click "Open"](http://papermill.github.io/mill-drop-osx/images/howto-open-1.png)
+
+3. ![Select "Open"](http://papermill.github.io/mill-drop-osx/images/howto-open-2.png)
+
 
 ## Thanks
   
@@ -20,12 +25,3 @@ Made with [platypus](http://sveinbjorn.org/platypus)
 ## License
 
 MIT
-
-<style>
-body {
-  margin: auto;
-  width: 33%;
-  min-width: 24em;
-  max-width: 28em;
-}
-</style>
