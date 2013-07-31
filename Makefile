@@ -8,7 +8,7 @@ app:
 	@echo "app has to be made manually for now"
 
 readme:
-	pandoc README.md -t html5 -s -o gh-pages/index.html
+	#pandoc README.md -t html5 -s -o gh-pages/index.html
 
 pub: app readme
 	cd ${DOCS} && git add --all
