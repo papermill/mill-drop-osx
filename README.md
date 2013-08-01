@@ -1,4 +1,4 @@
-# mill-drop (for Mac OS X)
+# mill-drop
 
 Just a small prototype GUI app for Mac OS X.
 
